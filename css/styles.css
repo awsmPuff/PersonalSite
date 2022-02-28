@@ -1,0 +1,144 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile {
+  margin: 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: 7px dotted;
+  color: #EAF6F6;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.contact-me {
+  margin: 100px auto;
+}
+
+.btn {
+  background: linear-gradient(#11cdd4, #11999e);
+  border-radius: 4px;
+  padding: 10px 20px;
+  color: white;
+  font-family: Arial;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.btn:hover {
+  background: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+ background-color: #66BFBF;
+ padding: 50px 0 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  font-size: 0.9rem;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.wxie {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+ position: absolute;
+ left: 250px;
+ bottom: 300px;
+}
+
+.me {
+  width: 240px;
+  height: 240px;
+}
+
+.skill1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+}
